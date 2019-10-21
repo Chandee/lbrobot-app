@@ -1,0 +1,36 @@
+
+{
+    "components": {
+      "Input": {
+        "meta": {
+          "scope": "mobile",
+          "appearances": {},
+          "states": {},
+          "parameters": {},
+          "variantGroups": {
+            "size": {
+              "tiny": {
+                "default": false
+              }
+            }
+          }
+        },
+        "appearances": {
+          "default": {
+            "mapping": {},
+            "variantGroups": {
+              "size": {
+                "tiny": {
+                  "minHeight": 15,
+                  "paddingVertical": 2,
+                  "textFontSize": "text-subtitle-2-font-size",
+                  "textLineHeight": "text-subtitle-2-line-height",
+                  "textFontWeight": "normal"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

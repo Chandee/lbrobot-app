@@ -1,0 +1,5 @@
+Criar um arquivo sidebar para controlar o acesso de quem pode ver algumas abas
+Criar o contador de pontos
+Criar a tabela de lutas
+Mostrar classificação
+Perfil
